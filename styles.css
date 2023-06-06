@@ -1,0 +1,37 @@
+.form-input {
+  margin: 1rem;
+  display: flex;
+  flex-direction: column;
+  width: 30rem;
+  font-size: 2em;
+}
+
+.text-box {
+  font-size: 1rem;
+  padding: 0.2rem;
+}
+
+.btn {
+  padding: 0.5rem 1rem;
+}
+
+.display {
+  display: flex;
+  justify-content: center;
+}
+
+.display-card {
+  text-align: center;
+  background-color: antiquewhite;
+  width: 23rem;
+  padding: 3rem 1rem;
+  border-radius: 12px;
+  margin: 2rem;
+}
+img {
+  width: 20rem;
+}
+
+.remove {
+  background-color: red;
+}
